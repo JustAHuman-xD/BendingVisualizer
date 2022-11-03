@@ -1,4 +1,4 @@
-package me.justahuman.bendingvisualizer.bendingvisualizer;
+package me.justahuman.bendingvisualizer;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

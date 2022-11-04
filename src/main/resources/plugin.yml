@@ -9,3 +9,9 @@ depend:
 
 authors: [ JustAHuman_xD ]
 description: Addon Plugin for Project Korra to visualize the steps to use moves and combos
+
+commands:
+  visualizer:
+    description: /visualizer
+    usage: /visualizer <sub>
+    aliases: [ bz, bendingvisualizer ]
